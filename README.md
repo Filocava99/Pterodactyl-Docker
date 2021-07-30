@@ -1,12 +1,10 @@
+# Dockerized Pterodactyl environment
 
-
-# ccarney16/pterodactyl-containers
-
-Pterodactyl, a free an open source agnostic game panel... In a Container!
+Customized version of the [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers) repository for AncientRealms.
 
 ## Installing
 
-Refer to the github wiki for the quick overview and detailed setup.
+Refer to the [github wiki](https://github.com/ccarney16/pterodactyl-containers/wiki) for the quick overview and detailed setup.
 
 ## Contributing
 
